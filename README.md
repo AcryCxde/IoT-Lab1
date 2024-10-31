@@ -1,4 +1,4 @@
-## Подключиться к MSQTT клиенту:
+## Подключиться к MQTT клиенту:
  
 
  - **Просмотр данных:** `mosquitto_sub -h test.mosquitto.org -t iot_lab1/smoke_level`
