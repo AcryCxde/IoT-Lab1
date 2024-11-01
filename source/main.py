@@ -5,6 +5,7 @@ import random
 import time
 from tkinter import ttk  # Для использования обводки
 
+
 # Создаем главное окно
 root = Tk()
 root.title("IoT-Lab1")
