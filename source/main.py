@@ -6,6 +6,7 @@ import time
 from tkinter import ttk
 import server
 
+
 # Создаем главное окно
 root = Tk()
 root.title("IoT-Lab1")
